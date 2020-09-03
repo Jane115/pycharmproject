@@ -1,6 +1,6 @@
 # pycharmproject
 
-To code is for my master project " Matrix Completion: Infer Missing Entries"
+To code is for my master project " Matrix Completion: Infer Missing Entries".
 This code is for my master project " Matrix Completion: Infer Missing Entries". To run the code directly, you should first download required packages, change the directory to your local path and run "Main.py".
 
 * I have attach my master dissertation, where the details of experiemnts are explained.
